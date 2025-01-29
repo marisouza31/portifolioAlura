@@ -4,8 +4,14 @@ Curso de Desenvolvimento Front-end:
 
 <div align="center">
   
-  <h4>Layout do portifolio:</h4>
+  <h4>Layout da Home:</h4>
   <img width="500" src="https://github.com/marisouza31/portifolioAlura/blob/main/README/portifolio.png"><br>
+   Fonte: Alura💙 e Mariana Ocireu.
+</div>
+
+<div align="center">
+  <h4>Layout do Sobre mim:</h4>
+  <img width="500" src="https://github.com/marisouza31/portifolioAlura/blob/main/README/sobremim.png"><br>
    Fonte: Alura💙 e Mariana Ocireu.
 </div>
 
